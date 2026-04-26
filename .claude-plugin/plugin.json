@@ -1,6 +1,6 @@
 {
   "name": "patterns",
-  "description": "Instinct Engine — scans recent sessions, journals, and decisions for recurring patterns and turns them into concrete captures (rules, concept notes, writing seeds, skill improvements). Detects what's hardening into real insight before it evaporates.",
+  "description": "Instinct Engine that scans recent sessions, journals, and decisions for recurring patterns and turns them into concrete captures (rules, concept notes, writing seeds, skill improvements). Detects what's hardening into real insight before it evaporates.",
   "version": "1.0.0",
   "author": {
     "name": "Adelaida Diaz-Roa"
