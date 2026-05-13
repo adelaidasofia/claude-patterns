@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "claude-patterns",
+  "owner": {
+    "name": "Mycelium AI",
+    "url": "https://myceliumai.co"
+  },
+  "plugins": [
+    {
+      "name": "claude-patterns",
+      "source": "./",
+      "description": "Instinct Engine that scans recent sessions, journals, and decisions for recurring patterns and turns them into concrete captures (rules, concept notes, writing seeds, skill improvements). Detects what's hardening into real insight before it evaporates."
+    }
+  ]
+}
