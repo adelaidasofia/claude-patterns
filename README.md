@@ -24,9 +24,10 @@ The point is to make implicit pattern recognition explicit — and to capture th
 
 ## Install
 
-```bash
-claude plugin add github.com/adelaidasofia/claude-patterns
-```
+Open Claude Code, paste:
+
+    /plugin marketplace add adelaidasofia/claude-patterns
+    /plugin install claude-patterns@claude-patterns
 
 Then in any Claude Code session:
 
@@ -35,6 +36,14 @@ Then in any Claude Code session:
 ```
 
 On first use, Claude asks where your sessions, decisions, journals, drafts, and concept notes live. Takes 60 seconds, never asks again.
+
+<details><summary>Legacy install</summary>
+
+```bash
+claude plugin add github.com/adelaidasofia/claude-patterns
+```
+
+</details>
 
 ---
 
